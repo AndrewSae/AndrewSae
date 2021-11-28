@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 🤝 I’m looking for help with [Duck-Code](https://github.com/Ducks-Code)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andrew-saenger-4a7986226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew-saenger-4a7986226" height="30" width="40" /></a>
